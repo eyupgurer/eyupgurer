@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner-cropped" width="100%" alt="Eyüp Gürer Banner"/>
+  <img src="./assets/github-banner-cropped.png" width="100%" alt="Eyüp Gürer Banner"/>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Decision-support platform for **Borsa İstanbul (BIST)** investors.
 **Built with**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,typescript,postgres,docker,git" />
+<img height="40" src="https://skillicons.dev/icons?i=python,fastapi,nextjs,typescript,postgres,docker,git&perline=7" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Decision-support platform for **Borsa İstanbul (BIST)** investors.
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cs,fastapi,nodejs,express,nextjs,react,tailwind,postgres,mongodb,docker,git,linux,vscode" />
+<img height="40" src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cs,fastapi,nodejs,express,nextjs,react,tailwind,postgres,mongodb,docker,git,linux,vscode&perline=9" />
 </p>
 
 ---
@@ -75,15 +75,15 @@ Decision-support platform for **Borsa İstanbul (BIST)** investors.
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eyupgurer&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eyupgurer&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupgurer&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupgurer&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=eyupgurer&theme=github-dark&hide_border=true"/>
+<img height="150" src="https://streak-stats.demolab.com?user=eyupgurer&theme=github-dark&hide_border=true"/>
 
 </p>
 
