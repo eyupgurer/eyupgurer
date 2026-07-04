@@ -109,5 +109,5 @@ A decision-support platform for **Borsa İstanbul (BIST)** investors.
 
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
+Code. Learn. Build. Repeat.
 </p>
