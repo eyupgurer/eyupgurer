@@ -1,25 +1,26 @@
-### Hi, I'm Eyüp
+<div align="center">
 
-I'm a software development student working on full-stack projects with Python and TypeScript. I enjoy building things end-to-end — from the data layer to the interface.
+# Eyüp Gürer
+
+### Software Development Student · Full-Stack Projects with Python & TypeScript
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/eyupgurer)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836)](mailto:mr.gurer1@gmail.com)
+[![Repo](https://img.shields.io/badge/Repo-payusula-38bdf8)](https://github.com/eyupgurer/payusula)
+
+</div>
 
 ---
 
-**Tech stack**
+I build full-stack projects end-to-end — from the data layer to the interface — and care about getting the details right, not just making something that runs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### What I've built
 
-**Find me here**
+- **[Payusula](https://github.com/eyupgurer/payusula)** — a decision-support platform for Istanbul Stock Exchange (BIST) stocks, combining technical indicators, fundamentals, and news into a single relative score. FastAPI + Next.js.
+- Designed a cross-sectional factor model that ranks stocks by percentile within a tracked universe — fixing scores that used to cluster around the same value.
+- Found and fixed a currency-mismatch bug in P/E and P/B ratios for companies reporting financials in USD, recalculating from balance sheet data and live FX rates.
+- Added an in-process caching layer so response cost stays flat regardless of traffic.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mr.gurer1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/eyupgurer)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/eyup_gurer)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eyup_gurer)
+### Stack
+
+`Python` `FastAPI` `Node.js` · `Next.js` `TypeScript` `React Native` `Expo` `Tailwind CSS` · `Git`
